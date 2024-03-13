@@ -11,7 +11,7 @@ public class Car {
         this.name = name;
         this.max_speed = max_speed;
         this.Color = Color;
-        this.Price = Price;
+        this.Price = Price; 
         System.out.println("Your cars specs has been changed!");
     }
 
